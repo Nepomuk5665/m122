@@ -7,11 +7,9 @@ Heute haben wir unsere VM eingerichtet und einen Einstiegstest geschrieben.
 
 
 
-## 13.05.2025
+## 20.05.2025
 
-Heute haben wir unsere VM eingerichtet und einen Einstiegstest geschrieben.
-
-Ich habe mit den Grundlagen der BASH-Scriptsprache (Linux/Unix) begonnen, indem ich die README-4.md durchgearbeitet habe. Hier ist mein persönliches Tutorial, was ich heute gelernt habe:
+Huete habe ich mit den Grundlagen der BASH-Scriptsprache (Linux/Unix) begonnen, indem ich die README-4.md durchgearbeitet habe. Hier ist mein persönliches Tutorial, was ich heute gelernt habe:
 
 ### BASH-Grundlagen - Mein Lerntagebuch
 
