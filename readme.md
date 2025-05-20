@@ -78,4 +78,3 @@ Huete habe ich mit den Grundlagen der BASH-Scriptsprache (Linux/Unix) begonnen, 
 - Umleitung mit `>` (überschreiben) und `>>` (anhängen)
 - Pipelines mit `|` zum Verketten von Befehlen
 
-Morgen werde ich mit arithmetischen Operationen, Kontrollstrukturen (Schleifen, if/else), Arrays und komplexeren Scriptfunktionen weitermachen.
