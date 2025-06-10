@@ -1707,7 +1707,3 @@ readonly CONFIG_FILE="$SCRIPT_DIR/config.conf"
 ```
 
 ---
-
-## Zusammenfassung
-
-Dieses Cheat Sheet bietet eine umfassende Übersicht über alle wichtigen Aspekte der CLI und Bash-Scripting. Von grundlegenden Befehlen über Automatisierung bis hin zu komplexen Skripten - alle Themen sind mit praktischen Beispielen und Best Practices erklärt. Nutzen Sie es als Referenz für Ihre tägliche Arbeit mit der Kommandozeile und beim Entwickeln von Bash-Skripten.
